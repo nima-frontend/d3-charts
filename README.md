@@ -1,8 +1,8 @@
 # React + D3 Dynamic Multi-Series & Single-Series Chart Dashboard
 
-![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-5.1-blue?logo=typescript) ![D3.js](https://img.shields.io/badge/D3.js-7.8.2-orange?logo=d3.js) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.2-blue?logo=tailwindcss)
+![React](https://img.shields.io/badge/React-19.1.0-blue?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?logo=typescript) ![D3.js](https://img.shields.io/badge/D3.js-7.9.0-orange?logo=d3.js) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.11-blue?logo=tailwindcss)
 
-A modern, responsive React dashboard that loads chart data dynamically and visualizes single-series and multi-series time series data using **D3.js** with TypeScript. Supports skipping null values, adaptive axis scaling, and a beautiful dark glassmorphism design with responsive layouts.
+A modern, responsive React dashboard that loads chart data dynamically and visualizes single-series and multi-series time series data using **D3.js** with TypeScript. Supports skipping null values, adaptive axis scaling, and a dark glassmorphism design with responsive layouts.
 
 ---
 

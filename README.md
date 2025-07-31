@@ -29,7 +29,7 @@ A modern, responsive React dashboard that loads chart data dynamically and visua
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/react-d3-chart-dashboard.git
+git clone https://github.com/nima-frontend/d3-charts.git
 cd react-d3-chart-dashboard
 ```
 2. **Install Dependencies**
